@@ -1,0 +1,10 @@
+dir   Mostra os arquivos do diretorio atual
+cd \  Acessa a pasta principal d Drive
+cd <nome da pasta> Acessa a pastinha que vc selecionou
+mkdir <nome da pasta> Cria uma pasta
+cd.. Volta arquivos
+
+
+Sequencia de comandos para criarmos uma pastinha no drive para rodar codigos em python no prompt de comando :
+
+cd /
