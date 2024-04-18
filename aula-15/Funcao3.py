@@ -1,16 +1,9 @@
 lista1 = [1, 2, 3, 4, 5, 6]
 lista2 = [10, 20, 30, 40, 50, 60]
 
-
-def somar_lista():
+def somar_lista( lista_origem ):
     soma = 0
-    for numero in lista1:
-        soma = soma + numero
-    return soma
-
-def somar_lista2():
-    soma = 0
-    for numero in lista2:
+    for numero in lista_origem:
         soma = soma + numero
     return soma
 
@@ -27,13 +20,10 @@ while executando:
     opcao = input().upper()[0]
 
     if opcao == 'S':
-        # soma = 0
-        # for i in range( 6 ):
-        #     soma = soma + lista[i]
-        s = somar_lista2()  # Quero somar os valores da lista2
+        s = somar_lista( lista2 )  # Quero somar os valores da lista2
         print( "Resultado da funcao somar_lista: ", s )
     elif opcao == 'M':
-        s = somar_lista()  # Fazer a média com os valores da lista1
+        s = somar_lista( lista1 )  # Fazer a média com os valores da lista1
         media = s / len(lista1)
         print("Media : ", media)
     elif opcao == 'X':
