@@ -1,4 +1,4 @@
-# Aula sobre dicionario e conjutos com a utilização de
+# Aula sobre dicionario e conjutos com a utilização :
 
 1. _O método **keys()** retorna um objeto de visualização. O objeto de visualização contém as chaves do dicionário, como uma lista._
 
