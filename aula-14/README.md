@@ -5,8 +5,7 @@
     d1.keys()
 ```
 2. *a forma correta de se utilizar Dicionario e Lista*
-~~~~python
-```
+```python
 dicio = {} 
 lista  = []
 ```
