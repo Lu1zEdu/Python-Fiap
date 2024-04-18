@@ -1,12 +1,11 @@
 # Aula sobre dicionario e conjutos com a utilização de :
 1. *O método **keys()** retorna um objeto de visualização. O objeto de visualização contém as chaves do dicionário, como uma lista.*
-~~~~PYTHON
-```
+```python
     d1 = {}
     d1.keys()
 ```
 2. *a forma correta de se utilizar Dicionario e Lista*
-~~~~PYTHON
+~~~~python
 ```
 dicio = {} 
 lista  = []
