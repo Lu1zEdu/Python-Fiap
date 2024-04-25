@@ -1,0 +1,30 @@
+Algoritmo de compra no supermercado:
+    0- Início do algoritmo
+    1- Ver os produtos que estão faltando, com isto criar uma lista de produtos que estão faltando e deixá-la vazia.
+    2- Executar algoritmo para o usuário de (preencher a lista)
+    3- Quando finalizar a lista ir para o supermercado
+    4- Passar por cada corredor a procura dos itens da lista de compras
+    5- Quando achar pegar na prateleira 
+    6- redor do supermercado a procurar dos itens da lista 
+    7- Perguntar ao usuário se este item está na lista?
+    8- Se sim, separa ele para comparar as marcas dos produtos; se não, colocá-lo de volta na prateleira 
+    9- Perguntar para o usuário se este protutor te atende? 
+    10- Se sim, pegá-lo; se não, devolver o produto a prateleira e procurar outro produto
+    11- Anotar o preço do produto que o usuário escolheu, e armazenar o preço do produto
+    12- Com o item que o usuário de seja prosseguir até o final da lista de compras 
+    13- Antes de ir ao caixa somar o preço de todos os produtos da lista que o usuário escolheu
+    14- Ir ao caixa com todos os itens da lista 
+    15- Pagar para o atendente o preço final de todos os itens da lista de compras 
+    16- Sair do supermercado 
+    17- Fim do algoritmo
+Algoritmo preencher a lista:
+    1- Início do algoritmo lista de compras
+    2- Perguntar ao usuário qual item deseja adicionar na lista de compras 
+    3- Adicionar a lista de compras
+    4- Perguntar se quer adicionar mais algum item à lista 
+    5- Você deseja adicionar mais um item?
+    6- Se sim, voltar para o passo um (2); se não, prosseguir;
+    7- Mostrar a lista de compras ao usuário
+    8- Quer retirar algum item da lista?
+    9- Se sim, retirar da lista; se não, continuar o algoritmo
+    10- Fim do algoritmo

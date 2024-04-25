@@ -1,0 +1,33 @@
+
+Crie um algoritmo para preparar aproximadamente 100g de pipoca;
+
+0-Início do algoritmo;
+1-Pegue o pacote milho de pipoca; 
+2- Pegue uma tesoura;
+3- O pacote de milho de pipoca está fechado?
+4- Verificar se o pacote de milho estiver lacrado; se sim, abri o pacote de milho de pipoca com a tesoura na parte superior do pacote; se não, retirar o pregador;
+5- Pegue um recipiente para armazenar o milho de pipoca;
+6- Separa 100g de milho de pipoca em um recipiente;
+7- Pegue uma panela apropriada para a produção de pipoca;
+8- Pegue um frasco de óleo de cozinha;
+9-O frasco de óleo de cozinha está fechado? 
+9- Verificar se o frasco de óleo estiver lacrado; se sim, abri o frasco de óleo na parte indicado rótulo do frasco; se não tirar a tampa do frasco;
+10- Pegue um pacote de sal de cozinha;
+11-O pacote de sal de cozinha está fechado?
+12- Verificar se o pacote de sal estiver lacrado; se sim, abri o pacote de sal de pipoca com a tesoura na parte superior do pacote; se não, retirar o pregado;
+13- Pegue uma panela para fazer a pipoca;
+14- Despeje os 100g de milho de pipoca dentro da panela;
+15- Despeje 20 ml de óleo de cozinha na panela;
+16- Coloque 10g de sal de cozinha na panela;
+17- Feche a panela;
+18-Coloque a panela no fogo;
+19- Espere 6 minutos com a panela no fogo;
+20- Quando o milho começar a estourar desligue o fogo imediatamente;
+21- Espere 2 minutos para esfriar a panela;
+22- Abra a panela pela tampa, colocando-a na bancada;
+23- Levante a panela e deixe ela em cima do recipiente que irá armazenar a pipoca;
+24- Despeje a pipoca no recipiente;
+25- Coloque a panela na bancada;
+26- Coma a pipoca;
+27- Fim do algoritmo;
+
